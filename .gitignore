@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+
+venv/
+
+.idea/
+
+*.log
+*.bak
+*.tmp
+*.orig
+
+.DS_Store
+Thumbs.db
+
+# --- Sentence Transformers model cache ---
+sentence-transformers/
+
+*.tar
+*.container
+*.pid
+
+.env
+.env.*
+
+.pytest_cache/

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Online Retail Sees Surge in Consumer Spending",
+    "subject": "Technology",
+    "description": "Workplace mental health programs are becoming a priority across sectors.",
+    "link": "http://example.com/article/1",
+    "date": "2023-08-06T14:49:26.497380"
+  },
+  {
+    "id": 2,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Education",
+    "description": "Innovations in solar and wind power continue to drive down costs and improve efficiency.",
+    "link": "http://example.com/article/2",
+    "date": "2024-11-11T14:49:26.497401"
+  },
+  {
+    "id": 3,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Technology",
+    "description": "Academic institutions are struggling to maintain budgets amid falling enrollment.",
+    "link": "http://example.com/article/3",
+    "date": "2025-03-17T14:49:26.497410"
+  },
+  {
+    "id": 4,
+    "title": "Global Supply Chains Recover Post-Crisis",
+    "subject": "Health",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/4",
+    "date": "2024-11-01T14:49:26.497419"
+  },
+  {
+    "id": 5,
+    "title": "Climate Change Policies Gain Traction Worldwide",
+    "subject": "Politics",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/5",
+    "date": "2025-04-08T14:49:26.497443"
+  },
+  {
+    "id": 6,
+    "title": "Remote Work Trends Reshape Urban Economies",
+    "subject": "Economy",
+    "description": "Governments consider youth-targeted job creation programs to combat unemployment.",
+    "link": "http://example.com/article/6",
+    "date": "2024-06-09T14:49:26.497449"
+  },
+  {
+    "id": 7,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Health",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/7",
+    "date": "2024-05-13T14:49:26.497454"
+  },
+  {
+    "id": 8,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Politics",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/8",
+    "date": "2023-02-25T14:49:26.497462"
+  },
+  {
+    "id": 9,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Education",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/9",
+    "date": "2024-11-05T14:49:26.497470"
+  },
+  {
+    "id": 10,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Education",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/10",
+    "date": "2024-01-04T14:49:26.497476"
+  },
+  {
+    "id": 11,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Education",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/11",
+    "date": "2024-06-02T14:49:26.497481"
+  },
+  {
+    "id": 12,
+    "title": "Youth Unemployment Spurs New Policy Discussions",
+    "subject": "Energy",
+    "description": "Global investment in clean energy hit a new high this year.",
+    "link": "http://example.com/article/12",
+    "date": "2024-11-11T14:49:26.497486"
+  },
+  {
+    "id": 13,
+    "title": "Advancements in Renewable Energy Technology",
+    "subject": "Politics",
+    "description": "A major milestone has been reached in practical quantum computing research.",
+    "link": "http://example.com/article/13",
+    "date": "2025-02-15T14:49:26.497491"
+  },
+  {
+    "id": 14,
+    "title": "Youth Unemployment Spurs New Policy Discussions",
+    "subject": "Technology",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/14",
+    "date": "2025-04-03T14:49:26.497502"
+  },
+  {
+    "id": 15,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Education",
+    "description": "Advancements in biotech are offering new treatment options for chronic illnesses.",
+    "link": "http://example.com/article/15",
+    "date": "2024-04-11T14:49:26.497507"
+  },
+  {
+    "id": 16,
+    "title": "Youth Unemployment Spurs New Policy Discussions",
+    "subject": "Economy",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/16",
+    "date": "2024-11-12T14:49:26.497512"
+  },
+  {
+    "id": 17,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Education",
+    "description": "Innovations in solar and wind power continue to drive down costs and improve efficiency.",
+    "link": "http://example.com/article/17",
+    "date": "2024-05-11T14:49:26.497517"
+  },
+  {
+    "id": 18,
+    "title": "Climate Change Policies Gain Traction Worldwide",
+    "subject": "Environment",
+    "description": "Trade and logistics networks begin to stabilize after pandemic-related disruption.",
+    "link": "http://example.com/article/18",
+    "date": "2025-03-25T14:49:26.497522"
+  },
+  {
+    "id": 19,
+    "title": "Healthcare Innovations Improve Patient Outcomes",
+    "subject": "Politics",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/19",
+    "date": "2023-06-08T14:49:26.497526"
+  },
+  {
+    "id": 20,
+    "title": "Remote Work Trends Reshape Urban Economies",
+    "subject": "Health",
+    "description": "Recent reports indicate a steady recovery in the global economy after the downturn caused by the pandemic.",
+    "link": "http://example.com/article/20",
+    "date": "2023-11-21T14:49:26.497532"
+  },
+  {
+    "id": 21,
+    "title": "Global Supply Chains Recover Post-Crisis",
+    "subject": "Energy",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/21",
+    "date": "2023-07-12T14:49:26.497536"
+  },
+  {
+    "id": 22,
+    "title": "Mental Health Awareness Grows in Corporate Culture",
+    "subject": "Politics",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/22",
+    "date": "2023-05-06T14:49:26.497541"
+  },
+  {
+    "id": 23,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Politics",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/23",
+    "date": "2023-12-16T14:49:26.497547"
+  },
+  {
+    "id": 24,
+    "title": "Education Systems Adapt to Remote Learning",
+    "subject": "Energy",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/24",
+    "date": "2023-06-12T14:49:26.497555"
+  },
+  {
+    "id": 25,
+    "title": "Education Systems Adapt to Remote Learning",
+    "subject": "Energy",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/25",
+    "date": "2024-03-05T14:49:26.497563"
+  },
+  {
+    "id": 26,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Energy",
+    "description": "Economic indicators show inflation is leveling off after significant fluctuations.",
+    "link": "http://example.com/article/26",
+    "date": "2023-11-16T14:49:26.497571"
+  },
+  {
+    "id": 27,
+    "title": "Healthcare Innovations Improve Patient Outcomes",
+    "subject": "Education",
+    "description": "Trade and logistics networks begin to stabilize after pandemic-related disruption.",
+    "link": "http://example.com/article/27",
+    "date": "2023-09-21T14:49:26.497579"
+  },
+  {
+    "id": 28,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Education",
+    "description": "Workplace mental health programs are becoming a priority across sectors.",
+    "link": "http://example.com/article/28",
+    "date": "2022-12-17T14:49:26.497596"
+  },
+  {
+    "id": 29,
+    "title": "Inflation Rates Stabilize After Volatile Year",
+    "subject": "Technology",
+    "description": "Trade and logistics networks begin to stabilize after pandemic-related disruption.",
+    "link": "http://example.com/article/29",
+    "date": "2025-02-20T14:49:26.497601"
+  },
+  {
+    "id": 30,
+    "title": "Breakthrough in Quantum Computing Announced",
+    "subject": "Environment",
+    "description": "Workplace mental health programs are becoming a priority across sectors.",
+    "link": "http://example.com/article/30",
+    "date": "2024-04-22T14:49:26.497606"
+  },
+  {
+    "id": 31,
+    "title": "Global Workforce Faces Skill Gaps in Tech Sector",
+    "subject": "Energy",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/31",
+    "date": "2024-12-17T14:49:26.497619"
+  },
+  {
+    "id": 32,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Technology",
+    "description": "Global investment in clean energy hit a new high this year.",
+    "link": "http://example.com/article/32",
+    "date": "2024-04-28T14:49:26.497628"
+  },
+  {
+    "id": 33,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Education",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/33",
+    "date": "2024-10-17T14:49:26.497632"
+  },
+  {
+    "id": 34,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Technology",
+    "description": "Schools and universities are implementing new digital tools to support remote learning.",
+    "link": "http://example.com/article/34",
+    "date": "2023-02-16T14:49:26.497637"
+  },
+  {
+    "id": 35,
+    "title": "Tech Giants Compete in AI Arms Race",
+    "subject": "Education",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/35",
+    "date": "2025-04-24T14:49:26.497642"
+  },
+  {
+    "id": 36,
+    "title": "Youth Unemployment Spurs New Policy Discussions",
+    "subject": "Education",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/36",
+    "date": "2023-08-29T14:49:26.497647"
+  },
+  {
+    "id": 37,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Health",
+    "description": "EV manufacturers are ramping up production to meet growing demand.",
+    "link": "http://example.com/article/37",
+    "date": "2024-03-26T14:49:26.497651"
+  },
+  {
+    "id": 38,
+    "title": "Tech Giants Compete in AI Arms Race",
+    "subject": "Health",
+    "description": "Global investment in clean energy hit a new high this year.",
+    "link": "http://example.com/article/38",
+    "date": "2023-04-05T14:49:26.497656"
+  },
+  {
+    "id": 39,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Economy",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/39",
+    "date": "2025-02-06T14:49:26.497661"
+  },
+  {
+    "id": 40,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Environment",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/40",
+    "date": "2024-10-24T14:49:26.497666"
+  },
+  {
+    "id": 41,
+    "title": "Mental Health Awareness Grows in Corporate Culture",
+    "subject": "Technology",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/41",
+    "date": "2024-06-17T14:49:26.497670"
+  },
+  {
+    "id": 42,
+    "title": "Healthcare Innovations Improve Patient Outcomes",
+    "subject": "Politics",
+    "description": "Innovations in solar and wind power continue to drive down costs and improve efficiency.",
+    "link": "http://example.com/article/42",
+    "date": "2024-03-01T14:49:26.497675"
+  },
+  {
+    "id": 43,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Health",
+    "description": "Global investment in clean energy hit a new high this year.",
+    "link": "http://example.com/article/43",
+    "date": "2023-06-05T14:49:26.497679"
+  },
+  {
+    "id": 44,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Technology",
+    "description": "New techniques in farming aim to reduce emissions and conserve water.",
+    "link": "http://example.com/article/44",
+    "date": "2025-05-20T14:49:26.497684"
+  },
+  {
+    "id": 45,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Energy",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/45",
+    "date": "2024-10-04T14:49:26.497688"
+  },
+  {
+    "id": 46,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Politics",
+    "description": "A major milestone has been reached in practical quantum computing research.",
+    "link": "http://example.com/article/46",
+    "date": "2023-02-22T14:49:26.497693"
+  },
+  {
+    "id": 47,
+    "title": "Remote Work Trends Reshape Urban Economies",
+    "subject": "Economy",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/47",
+    "date": "2024-10-17T14:49:26.497698"
+  },
+  {
+    "id": 48,
+    "title": "Global Workforce Faces Skill Gaps in Tech Sector",
+    "subject": "Energy",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/48",
+    "date": "2024-02-01T14:49:26.497702"
+  },
+  {
+    "id": 49,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Education",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/49",
+    "date": "2024-09-29T14:49:26.497707"
+  },
+  {
+    "id": 50,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Environment",
+    "description": "Economic indicators show inflation is leveling off after significant fluctuations.",
+    "link": "http://example.com/article/50",
+    "date": "2022-10-16T14:49:26.497711"
+  },
+  {
+    "id": 51,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Energy",
+    "description": "Recent reports indicate a steady recovery in the global economy after the downturn caused by the pandemic.",
+    "link": "http://example.com/article/51",
+    "date": "2024-04-01T14:49:26.497719"
+  },
+  {
+    "id": 52,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Technology",
+    "description": "Governments consider youth-targeted job creation programs to combat unemployment.",
+    "link": "http://example.com/article/52",
+    "date": "2023-05-12T14:49:26.497723"
+  },
+  {
+    "id": 53,
+    "title": "Inflation Rates Stabilize After Volatile Year",
+    "subject": "Energy",
+    "description": "Advancements in biotech are offering new treatment options for chronic illnesses.",
+    "link": "http://example.com/article/53",
+    "date": "2023-01-22T14:49:26.497728"
+  },
+  {
+    "id": 54,
+    "title": "Breakthrough in Quantum Computing Announced",
+    "subject": "Politics",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/54",
+    "date": "2023-06-05T14:49:26.497733"
+  },
+  {
+    "id": 55,
+    "title": "Global Supply Chains Recover Post-Crisis",
+    "subject": "Environment",
+    "description": "Schools and universities are implementing new digital tools to support remote learning.",
+    "link": "http://example.com/article/55",
+    "date": "2024-04-12T14:49:26.497737"
+  },
+  {
+    "id": 56,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Energy",
+    "description": "Governments consider youth-targeted job creation programs to combat unemployment.",
+    "link": "http://example.com/article/56",
+    "date": "2023-05-15T14:49:26.497742"
+  },
+  {
+    "id": 57,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Energy",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/57",
+    "date": "2024-11-10T14:49:26.497746"
+  },
+  {
+    "id": 58,
+    "title": "Remote Work Trends Reshape Urban Economies",
+    "subject": "Economy",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/58",
+    "date": "2025-03-03T14:49:26.497751"
+  },
+  {
+    "id": 59,
+    "title": "Education Systems Adapt to Remote Learning",
+    "subject": "Education",
+    "description": "Cities adapt to fewer commuters with new urban planning strategies.",
+    "link": "http://example.com/article/59",
+    "date": "2025-04-14T14:49:26.497756"
+  },
+  {
+    "id": 60,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Energy",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/60",
+    "date": "2023-05-17T14:49:26.497760"
+  },
+  {
+    "id": 61,
+    "title": "Education Systems Adapt to Remote Learning",
+    "subject": "Politics",
+    "description": "Cities adapt to fewer commuters with new urban planning strategies.",
+    "link": "http://example.com/article/61",
+    "date": "2025-01-22T14:49:26.497765"
+  },
+  {
+    "id": 62,
+    "title": "Remote Work Trends Reshape Urban Economies",
+    "subject": "Economy",
+    "description": "Innovations in solar and wind power continue to drive down costs and improve efficiency.",
+    "link": "http://example.com/article/62",
+    "date": "2024-02-26T14:49:26.497769"
+  },
+  {
+    "id": 63,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Technology",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/63",
+    "date": "2024-05-15T14:49:26.497774"
+  },
+  {
+    "id": 64,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Health",
+    "description": "Schools and universities are implementing new digital tools to support remote learning.",
+    "link": "http://example.com/article/64",
+    "date": "2024-07-16T14:49:26.497778"
+  },
+  {
+    "id": 65,
+    "title": "Sustainable Agriculture Practices Expand Globally",
+    "subject": "Economy",
+    "description": "Trade and logistics networks begin to stabilize after pandemic-related disruption.",
+    "link": "http://example.com/article/65",
+    "date": "2025-03-15T14:49:26.497785"
+  },
+  {
+    "id": 66,
+    "title": "Tech Giants Compete in AI Arms Race",
+    "subject": "Technology",
+    "description": "New techniques in farming aim to reduce emissions and conserve water.",
+    "link": "http://example.com/article/66",
+    "date": "2024-12-06T14:49:26.497794"
+  },
+  {
+    "id": 67,
+    "title": "Electric Vehicles Poised to Dominate Market by 2030",
+    "subject": "Technology",
+    "description": "Economic indicators show inflation is leveling off after significant fluctuations.",
+    "link": "http://example.com/article/67",
+    "date": "2023-12-28T14:49:26.497802"
+  },
+  {
+    "id": 68,
+    "title": "Climate Change Policies Gain Traction Worldwide",
+    "subject": "Politics",
+    "description": "Global investment in clean energy hit a new high this year.",
+    "link": "http://example.com/article/68",
+    "date": "2023-11-05T14:49:26.497816"
+  },
+  {
+    "id": 69,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Technology",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/69",
+    "date": "2023-10-15T14:49:26.497826"
+  },
+  {
+    "id": 70,
+    "title": "Youth Unemployment Spurs New Policy Discussions",
+    "subject": "Environment",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/70",
+    "date": "2023-05-04T14:49:26.497839"
+  },
+  {
+    "id": 71,
+    "title": "Electric Vehicles Poised to Dominate Market by 2030",
+    "subject": "Politics",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/71",
+    "date": "2023-01-14T14:49:26.497843"
+  },
+  {
+    "id": 72,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Education",
+    "description": "Schools and universities are implementing new digital tools to support remote learning.",
+    "link": "http://example.com/article/72",
+    "date": "2024-05-05T14:49:26.497848"
+  },
+  {
+    "id": 73,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Economy",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/73",
+    "date": "2025-05-19T14:49:26.497852"
+  },
+  {
+    "id": 74,
+    "title": "Education Systems Adapt to Remote Learning",
+    "subject": "Politics",
+    "description": "Global investment in clean energy hit a new high this year.",
+    "link": "http://example.com/article/74",
+    "date": "2023-07-18T14:49:26.497857"
+  },
+  {
+    "id": 75,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Technology",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/75",
+    "date": "2023-10-08T14:49:26.497861"
+  },
+  {
+    "id": 76,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Technology",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/76",
+    "date": "2024-02-14T14:49:26.497867"
+  },
+  {
+    "id": 77,
+    "title": "Inflation Rates Stabilize After Volatile Year",
+    "subject": "Health",
+    "description": "Academic institutions are struggling to maintain budgets amid falling enrollment.",
+    "link": "http://example.com/article/77",
+    "date": "2023-02-19T14:49:26.497872"
+  },
+  {
+    "id": 78,
+    "title": "Global Workforce Faces Skill Gaps in Tech Sector",
+    "subject": "Politics",
+    "description": "Recent reports indicate a steady recovery in the global economy after the downturn caused by the pandemic.",
+    "link": "http://example.com/article/78",
+    "date": "2023-11-15T14:49:26.497877"
+  },
+  {
+    "id": 79,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Energy",
+    "description": "Economic indicators show inflation is leveling off after significant fluctuations.",
+    "link": "http://example.com/article/79",
+    "date": "2023-10-31T14:49:26.497881"
+  },
+  {
+    "id": 80,
+    "title": "Inflation Rates Stabilize After Volatile Year",
+    "subject": "Energy",
+    "description": "Advancements in biotech are offering new treatment options for chronic illnesses.",
+    "link": "http://example.com/article/80",
+    "date": "2023-09-18T14:49:26.497886"
+  },
+  {
+    "id": 81,
+    "title": "Tech Giants Compete in AI Arms Race",
+    "subject": "Health",
+    "description": "Innovations in solar and wind power continue to drive down costs and improve efficiency.",
+    "link": "http://example.com/article/81",
+    "date": "2024-08-20T14:49:26.497890"
+  },
+  {
+    "id": 82,
+    "title": "Green Energy Investment Reaches Record High",
+    "subject": "Economy",
+    "description": "Trade and logistics networks begin to stabilize after pandemic-related disruption.",
+    "link": "http://example.com/article/82",
+    "date": "2023-02-05T14:49:26.497895"
+  },
+  {
+    "id": 83,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Education",
+    "description": "Governments are introducing new climate measures to meet international agreements.",
+    "link": "http://example.com/article/83",
+    "date": "2022-12-06T14:49:26.497899"
+  },
+  {
+    "id": 84,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Technology",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/84",
+    "date": "2022-12-09T14:49:26.497904"
+  },
+  {
+    "id": 85,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Politics",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/85",
+    "date": "2024-03-26T14:49:26.497909"
+  },
+  {
+    "id": 86,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Economy",
+    "description": "Governments consider youth-targeted job creation programs to combat unemployment.",
+    "link": "http://example.com/article/86",
+    "date": "2024-01-22T14:49:26.497913"
+  },
+  {
+    "id": 87,
+    "title": "Inflation Rates Stabilize After Volatile Year",
+    "subject": "Politics",
+    "description": "Companies face increasing pressure to secure systems against cyber attacks.",
+    "link": "http://example.com/article/87",
+    "date": "2024-07-24T14:49:26.497920"
+  },
+  {
+    "id": 88,
+    "title": "Online Retail Sees Surge in Consumer Spending",
+    "subject": "Health",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/88",
+    "date": "2024-07-01T14:49:26.497925"
+  },
+  {
+    "id": 89,
+    "title": "Telemedicine Becomes Mainstream Post-Pandemic",
+    "subject": "Energy",
+    "description": "Virtual consultations have become a standard practice in many healthcare systems.",
+    "link": "http://example.com/article/89",
+    "date": "2023-08-10T14:49:26.497931"
+  },
+  {
+    "id": 90,
+    "title": "Breakthrough in Quantum Computing Announced",
+    "subject": "Politics",
+    "description": "EV manufacturers are ramping up production to meet growing demand.",
+    "link": "http://example.com/article/90",
+    "date": "2022-09-05T14:49:26.497936"
+  },
+  {
+    "id": 91,
+    "title": "Climate Change Policies Gain Traction Worldwide",
+    "subject": "Education",
+    "description": "Trade and logistics networks begin to stabilize after pandemic-related disruption.",
+    "link": "http://example.com/article/91",
+    "date": "2025-05-17T14:49:26.497940"
+  },
+  {
+    "id": 92,
+    "title": "Global Economy Shows Signs of Recovery",
+    "subject": "Education",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/92",
+    "date": "2025-03-09T14:49:26.497945"
+  },
+  {
+    "id": 93,
+    "title": "Global Workforce Faces Skill Gaps in Tech Sector",
+    "subject": "Economy",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/93",
+    "date": "2022-09-25T14:49:26.497949"
+  },
+  {
+    "id": 94,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Health",
+    "description": "Tech companies are accelerating development in machine learning and generative AI models.",
+    "link": "http://example.com/article/94",
+    "date": "2023-09-03T14:49:26.497955"
+  },
+  {
+    "id": 95,
+    "title": "Education Systems Adapt to Remote Learning",
+    "subject": "Education",
+    "description": "Recent reports indicate a steady recovery in the global economy after the downturn caused by the pandemic.",
+    "link": "http://example.com/article/95",
+    "date": "2022-11-30T14:49:26.497959"
+  },
+  {
+    "id": 96,
+    "title": "Global Supply Chains Recover Post-Crisis",
+    "subject": "Technology",
+    "description": "A major milestone has been reached in practical quantum computing research.",
+    "link": "http://example.com/article/96",
+    "date": "2024-01-22T14:49:26.497963"
+  },
+  {
+    "id": 97,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Health",
+    "description": "Recent reports indicate a steady recovery in the global economy after the downturn caused by the pandemic.",
+    "link": "http://example.com/article/97",
+    "date": "2023-07-21T14:49:26.497968"
+  },
+  {
+    "id": 98,
+    "title": "Tech Giants Compete in AI Arms Race",
+    "subject": "Economy",
+    "description": "Workplace mental health programs are becoming a priority across sectors.",
+    "link": "http://example.com/article/98",
+    "date": "2022-09-01T14:49:26.497973"
+  },
+  {
+    "id": 99,
+    "title": "Cybersecurity Threats Escalate Across Industries",
+    "subject": "Energy",
+    "description": "E-commerce continues to expand as shopping habits shift online.",
+    "link": "http://example.com/article/99",
+    "date": "2022-11-04T14:49:26.497977"
+  },
+  {
+    "id": 100,
+    "title": "Universities Face Funding Challenges Amid Economic Shift",
+    "subject": "Economy",
+    "description": "Many professionals seek retraining as automation changes the labor market.",
+    "link": "http://example.com/article/100",
+    "date": "2023-05-09T14:49:26.497982"
+  }
+]
